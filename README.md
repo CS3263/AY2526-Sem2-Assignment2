@@ -15,7 +15,7 @@ You are encouraged to discuss solution ideas. However, each team *must write up 
 
 # Submission
 
-- Complete the code in `Assignment1.ipynb` and **copy** your solutions to `programming.py`.
+- Complete the code in `Assignment2.ipynb` and **copy** your solutions to `programming.py`.
 - Write your answers to Question 3(a), (b), and (c) in ``Question3-answers.txt``.
 - Please write the following on the top of your solution files:
     - The **name(s)** and **metric number(s)** of ALL team members as they appear on Canvas.
